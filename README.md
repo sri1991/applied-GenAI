@@ -13,7 +13,6 @@ This project showcases an innovative PDF Question-Answering application that lev
 
 ![Architecture Diagram](assets\architecture.png)
 
-[TODO: Add a detailed architecture diagram showing the flow of data and processing steps]
 
 The application follows this high-level architecture:
 
