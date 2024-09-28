@@ -11,7 +11,7 @@ This project showcases an innovative PDF Question-Answering application that lev
 
 ## Architecture
 
-![Architecture Diagram](assets\architecture.png)
+![Architecture Diagram](assets/architecture.png)
 
 
 The application follows this high-level architecture:
