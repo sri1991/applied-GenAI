@@ -1,0 +1,7 @@
+streamlit
+pypdf
+nltk
+faiss-cpu
+numpy
+scikit-learn
+google-generativeai
