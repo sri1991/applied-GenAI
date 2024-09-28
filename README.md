@@ -11,7 +11,7 @@ This project showcases an innovative PDF Question-Answering application that lev
 
 ## Architecture
 
-![Architecture Diagram](path/to/architecture_diagram.png)
+![Architecture Diagram](assets\architecture.png)
 
 [TODO: Add a detailed architecture diagram showing the flow of data and processing steps]
 
